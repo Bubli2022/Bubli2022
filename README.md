@@ -2,9 +2,9 @@
 <h3 align="center">Full-stack web developer passionate about both frontend and backend development.</h3>
 
 
-- <p align="center">👨‍💻 All of my projects are available at https://jr-arielmp.netlify.app/</p>
+<p align="center">👨‍💻 All of my projects are available at https://jr-arielmp.netlify.app/</p>
 
-- <p align="center">📫 How to reach me am_perez2003@hotmail.com</p>
+<p align="center">📫 How to reach me am_perez2003@hotmail.com</p>
 
 
 ## 🌐 Socials:
